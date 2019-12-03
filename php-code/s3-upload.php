@@ -10,8 +10,8 @@
 			'region'  => 'us-east-1',
 			'version' => 'latest',
 			'credentials' => [
-				'key'    => "AKIA3KUK4Z6LTP5YHPFN",
-				'secret' => "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",
+				'key'    => "###",
+				'secret' => "###",
 			]
 		]);
 
