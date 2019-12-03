@@ -81,7 +81,7 @@ else {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1 );
     curl_setopt($ch, CURLOPT_POST,           1 );
     curl_setopt($ch, CURLOPT_POSTFIELDS,     $textArray);
-    curl_setopt($ch, CURLOPT_HTTPHEADER,     array('x-api-key: U5qu4OKBst7vyzbYtjjE61A888qUWAGT4j1gtHAt'));
+    curl_setopt($ch, CURLOPT_HTTPHEADER,     array('x-api-key: xxx'));
 
     $result=curl_exec ($ch);
     curl_close($ch);
