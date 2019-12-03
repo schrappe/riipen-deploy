@@ -1,3 +1,5 @@
+<img class="img-responsive" src = "https://deploy-pdf.s3.amazonaws.com/utscs.png" width="400"/>
+
 # Machine Learning Project Files
 Files used on the Riipen – Deploy Solutions project - Extracting Actions and Insights from Climate Change documents
 
