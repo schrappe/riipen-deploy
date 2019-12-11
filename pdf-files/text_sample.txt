@@ -1,0 +1,6 @@
+Text example for actionable items.
+What to do in case of wildfire in Toronto or in Ottawa.
+Close the door to avoid heat.
+Close to the door it may get hot.
+This is not an actionable item.
+Run as fast as you can.
